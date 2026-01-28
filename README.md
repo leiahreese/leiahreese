@@ -14,5 +14,5 @@ I am a **Computer Engineering Senior** at the **Polytechnic University of the Ph
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [https://www.linkedin.com/in/perezleanikka/]
-* **Email:** [leanikkafperez@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/perezleanikka/
+* **Email:** leanikkafperez@gmail.com
