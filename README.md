@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**leiahreese/leiahreese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering Senior** at the **Polytechnic University of the Philippines**, specializing in **Big Data Analytics**. I am passionate about transforming raw data into actionable insights through engineering and statistical analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skillset
+
+* **Data Analysis:** Python (Pandas, NumPy), R, and Microsoft Excel
+* **Databases:** MySQL and PostgreSQL
+* **Visualization:** Power BI, Matplotlib, and Seaborn
+* **Specialization:** Big Data Analytics, RFM Analysis, and Database Management
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [https://www.linkedin.com/in/perezleanikka/]
+* **Email:** [leanikkafperez@gmail.com]
