@@ -7,7 +7,7 @@ I am a **Computer Engineering Senior** at the **Polytechnic University of the Ph
 ### Skillset
 
 * **Data Analysis:** Python (Pandas, NumPy), R, and Microsoft Excel
-* **Databases:** MySQL and PostgreSQL
+* **Databases:** MySQL SQLite, and PostgreSQL
 * **Visualization:** Power BI, Matplotlib, and Seaborn
 
 ---
