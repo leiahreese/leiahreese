@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lea!
 
-I am a **Computer Engineering Senior** at the **Polytechnic University of the Philippines**, specializing in **Big Data Analytics**. I am passionate about transforming raw data into actionable insights through statistical analysis.
+I am a **Computer Engineer** from **Polytechnic University of the Philippines**, specializing in **Big Data Analytics**. I am passionate about transforming raw data into actionable insights through statistical analysis.
 
 ---
 
