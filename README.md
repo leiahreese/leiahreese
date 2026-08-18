@@ -8,7 +8,7 @@ I am a **Computer Engineer** from **Polytechnic University of the Philippines**,
 
 * **Data Analysis:** Python (Pandas, NumPy), R, and Microsoft Excel
 * **Databases:** MySQL SQLite, and PostgreSQL
-* **Visualization:** Power BI, Matplotlib, and Seaborn
+* **Visualization:** Power BI, Matplotlib, Plotly, and Seaborn
 
 ---
 
